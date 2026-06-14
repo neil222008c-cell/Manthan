@@ -1,0 +1,6 @@
+{
+  "name": "Minimalist Fashion Store",
+  "description": "A beautifully crafted, high-fidelity landing page for a minimalist, modern luxury fashion e-commerce brand, featuring dynamic micro-interactions, editorial design, category filters, and modal quick views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
